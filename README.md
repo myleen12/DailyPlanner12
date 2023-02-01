@@ -20,4 +20,4 @@ Create a simple calendar application that allows a user to save events for each 
 
 
 ## ScreenShot
-![DailyPlanner](./Assests/image/daily%20planner%20.png)
+![DailyPlanner](./assets/image/daily%20planner%20.png)
