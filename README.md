@@ -8,7 +8,7 @@ Create a simple calendar application that allows a user to save events for each 
 
 
 ## Deployed link
-
+https://myleen12.github.io/DailyPlanner12/
 
 
 
